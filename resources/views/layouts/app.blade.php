@@ -270,6 +270,8 @@
       
     </div>
                git reset --hard HEAD~1
+                              git reset --hard HEAD~1
+
     <div class="container " id="all">
 
 
